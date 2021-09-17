@@ -6,8 +6,9 @@
 <br> If you have multipe project
 -  get into subfoler C:\XXX\UserMaintainable\UserMaintainable.Api>dotnet user-secrets init --project "UserMaintainable.Api.csproj"
 -  found secret id from project file
-<br><PropertyGroup>
+<br>--------------
+<PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <UserSecretsId>fafa23e1-d9a0-4dee-a276-e01f9c4e9ed6</UserSecretsId>
     <Configurations>Debug;Release;Localdeployment</Configurations>
-  </PropertyGroup>
+</PropertyGroup>
