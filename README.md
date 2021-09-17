@@ -14,3 +14,6 @@
 </PropertyGroup>
 ```
 -  Save config value to the scret file CMD> dotnet user-secrets set Password "xxxxx"
+-  Use it
+![image](https://user-images.githubusercontent.com/64368109/133843436-14004344-87cb-4f67-999b-dda59ed8a35a.png)
+
