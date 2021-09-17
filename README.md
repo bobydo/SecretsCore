@@ -13,3 +13,4 @@
     <Configurations>Debug;Release;Localdeployment</Configurations>
 </PropertyGroup>
 ```
+-  Save config value to the scret file CMD> dotnet user-secrets set Password "xxxxx"
