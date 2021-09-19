@@ -45,6 +45,8 @@
 
 ![image](https://user-images.githubusercontent.com/64368109/133927701-27ebb58f-6133-4857-b571-0f7157d4034a.png)
 
+-  on azure vault
+![image](https://user-images.githubusercontent.com/64368109/133928239-082e54f6-f96d-4ed1-a3d2-0f5e7c35062a.png)
 
 
 
