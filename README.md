@@ -21,5 +21,9 @@
   "ActiveDirectoryConfiguration:Password": "xxxx"
 }
 ```
+![image](https://user-images.githubusercontent.com/64368109/133927121-8fa6fe34-2311-4e2c-bf7b-969a7ce66a19.png)
+
 ![image](https://user-images.githubusercontent.com/64368109/133843436-14004344-87cb-4f67-999b-dda59ed8a35a.png)
+
+-  List which key should be set up for developer cmd>dotnet user-secrets list
 
