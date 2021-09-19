@@ -23,7 +23,10 @@
 ```
 ![image](https://user-images.githubusercontent.com/64368109/133927121-8fa6fe34-2311-4e2c-bf7b-969a7ce66a19.png)
 
+-  List which key should be set up for developer cmd>dotnet user-secrets list
+-  For .net framework, you need install extra nuget package
 ![image](https://user-images.githubusercontent.com/64368109/133843436-14004344-87cb-4f67-999b-dda59ed8a35a.png)
 
--  List which key should be set up for developer cmd>dotnet user-secrets list
+![image](https://user-images.githubusercontent.com/64368109/133927241-5bfd4ae2-4044-4f51-9654-4ae3a33c716d.png)
+
 
